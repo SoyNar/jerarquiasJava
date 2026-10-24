@@ -96,13 +96,13 @@ Se prueban tres configuraciones del mismo preparador, sin modificar su codigo:
 3. Combinacion libre
 
 ![Salida de TestBeverageMaker](pruebas/testpreparador%20de%20bebidas.png)
-![Salida de TestBeverageMaker](pruebas/consolaTestPreparador.png)
+![Salida de testConsola](pruebas/consolaTestPreparador.png)
 
 
 ### Parte 7: Segunda version con lista de equipos (`TestBeverageStation`)
 
 ![Salida de TestBeverageStation](pruebas/testBeverageStation.png)
-![Salida de TestBeverageStation](pruebas/beverageStation.png)
+![Salida de TestBeverageStationConsola](pruebas/beverageStation.png)
 
 
 ## Como ejecutar
